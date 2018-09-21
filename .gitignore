@@ -1,0 +1,4 @@
+/src/google-play-crawler/*.user
+/src/google-play-crawler/obj
+/src/google-play-crawler/bin
+/src/.vs

@@ -1,0 +1,16 @@
+{
+  "name": "google-play-crawler",
+  "version": "0.0.0",
+  "description": "google-play-crawler",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14"
+  },
+  "dependencies": {
+    "google-play-scraper": "^6.2.0",
+    "json2xls": "^0.1.2"
+  }
+}
